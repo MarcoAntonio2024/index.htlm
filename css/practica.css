@@ -1,0 +1,32 @@
+/*
+Hoja de Estilos
+*/
+
+
+Header{
+background: #00f;
+text-align: center;
+padding: 20px;
+}
+
+section{
+width: 50%;
+float: left;
+}
+
+section1{
+width: 70%;
+float: center;
+}
+
+section2{
+width: 25%;
+float: left;
+}
+
+footer{
+background: #00f;
+text-align: center; 
+padding: 20px;
+clear: both;
+}
